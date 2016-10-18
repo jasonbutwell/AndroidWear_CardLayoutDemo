@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Card Layout Demo</string>
-    <string name="hello_round">Hello Round World!</string>
-    <string name="hello_square">Hello Square World!</string>
+    <string name="cftitle">The Title</string>
+    <string name="cfdesc">The Description</string>
 </resources>
